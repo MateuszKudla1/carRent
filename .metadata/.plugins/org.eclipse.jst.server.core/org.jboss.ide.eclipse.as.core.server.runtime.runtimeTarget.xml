@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpath>
+  <source-attachment entry="C:/Users/Mateusz/Desktop/serwer/wildfly-10.0.0.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.2_spec-2.2.12.jar" runtime-id="WildFly 10.0 Runtime 1" source-attachment-path="C:/Users/Mateusz/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.12/jboss-jsf-api_2.2_spec-2.2.12-sources.jar"/>
+</classpath>

@@ -1,0 +1,13 @@
+System obs³ugi sieci wypo¿yczalni samochodów (z mo¿liwoœci¹ zwrotu w innym oddziale)
+
+
+    warstwa webowa oparta na JSF
+    warstwa biznesowa oparta o EJB
+    dostêp do warstwy danych poprzez JPA
+    generowanie PDF
+    obs³uga SMTP
+    testy jednostkowe / integracyjne
+    syntetyczny opis wykorzystanych technologii Java EE
+    opis wykorzystanych wzorców projektowych
+    schemat bazy danych
+    diagramy klas
